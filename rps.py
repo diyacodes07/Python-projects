@@ -1,3 +1,4 @@
+# This is rock paper scissor game.
 import sys
 import random
 
