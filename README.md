@@ -1,2 +1,2 @@
 # Python-projects
-My python practice and mini projects from scratch.
+Here I post mini projects which I made on python.
